@@ -1,16 +1,24 @@
-## Hi there 👋
+# Banana Cat Hub Script
+An updated version of the Banana Cat Hub Script is now available for free. This version  introduces new features and has been optimized for all types of Android devices.
 
-<!--
-**Banana-Cat-H/Banana-Cat-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**✅ Banana Cat Hub Script - [View Code](https://dlgram.com/VnKrC)**
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💎 Key Features:
+
+✔️ Auto Farm
+
+✔️ Farming Material
+
+✔️ Auto Stats
+
+✔️ Auto Farm Chests
+
+✔️ Teleports
+
+✔️ Esp
+
+✔️ WalkSpeed
+
+✔️ JumpPower And More!
